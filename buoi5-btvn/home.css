@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Josefin Sans';
+
+
+}
+
+.nav1 {
+	width: 68vw;
+	display: inline-block;
+}
+
+.nav2.logo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 200;
+}
+
+}
+
+.nav2 {
+	margin-left: 10px;
+	align-content: center;
+	background-color: #ececfa;
+	display: block;
+	padding:4% 4%;
+	border-bottom: 1px solid #a7a7ad;
+
+}
